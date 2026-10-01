@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #1c1c1c;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 3px solid #e63946;
+}
+
+.navbar h2 {
+  color: #e63946;
+  margin: 0 0 10px 0;
+  font-size: 28px;
+}
+
+.navbar p {
+  color: #cccccc;
+  margin: 0;
+  font-size: 16px;
+}

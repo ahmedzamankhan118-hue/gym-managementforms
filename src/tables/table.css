@@ -1,0 +1,32 @@
+.table-section {
+  width: 90%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+.table-section h2 {
+  color: #e63946;
+  margin-bottom: 20px;
+}
+
+.table-section table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #1c1c1c;
+  color: white;
+}
+
+.table-section th {
+  background-color: #e63946;
+  color: white;
+  padding: 15px;
+}
+
+.table-section td {
+  padding: 12px;
+  border-bottom: 1px solid #444;
+}
+
+.table-section tr:hover {
+  background-color: #2a2a2a;
+}
